@@ -1,0 +1,2 @@
+Profesor, ponemos los dos archivos de código tanto el de Atmel en c como el de arduino, 
+debido a que los dos contribuimos para la realización de los códigos en sus distintos tiempos.
